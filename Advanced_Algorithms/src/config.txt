@@ -1,0 +1,22 @@
+Address: F:/University/Lesson_MSc/Computer/Advanced algorithms/Project/code/code/data/
+K: 3
+Method: 5
+pertubation: 10
+acceptance: 20
+iteration: 10000
+EPS: 0.00001
+maxCut: 100
+nCutLoopIteration: 1000
+
+
+==================================================Read_Me
+Methods:
+0: OTHER
+1: ILP_DERVAL
+2: ILP_P_DERVAL
+3: ILP_SINNL
+4: ILP_SINNL_SUBMTX
+5: BENDERS_DECOMPOSITION
+6: BENDERS_DECOMPOSITION_CUT
+7: ILP_IPCQ
+8: HEURISTIC
